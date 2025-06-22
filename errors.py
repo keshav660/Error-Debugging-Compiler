@@ -2,8 +2,7 @@
 
 # import openai
 
-# openai.api_key = "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"  # Replace with your key
-# # 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
+# openai.api_key = ""  # Replace with your key
 # def check_errors(code):
 #     errors = []
 #     lines = code.split("\n")
