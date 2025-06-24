@@ -33,11 +33,9 @@ Welcome to the official repository of our **AI + Rule-Based Debugging Compiler**
 
 | Layer           | Technology Used      |
 |----------------|-----------------------|
-| Compiler Frontend | LEX & YACC (Flex & Bison) |
 | Language Support  | C Language             |
 | AI Module         | OpenAI GPT-4 API       |
 | Backend Scripts   | Python (for GPT requests) |
-| Interface (CLI)   | C / Bash Scripts       |
 | GUI (Planned)     | Python (Tkinter / Web) |
 
 ---
