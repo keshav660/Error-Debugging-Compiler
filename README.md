@@ -48,3 +48,6 @@ Sneha Gupta
 
 B.Tech CSE, Final Year
 Uttarakhand, India
+
+![White Dynamic Video Road Trip YouTube Thumbnail](https://github.com/user-attachments/assets/58ca7016-8762-4916-8bcc-f06ae0d46635)
+
